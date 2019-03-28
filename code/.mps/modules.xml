@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/de.arimer.nodenavigator/de.arimer.nodenavigator.mpl" folder="node-navigator" />
+      <modulePath path="$PROJECT_DIR$/solutions/de.arimer.nodenavigator.plugin/de.arimer.nodenavigator.plugin.msd" folder="node-navigator" />
+    </projectModules>
+  </component>
+</project>
