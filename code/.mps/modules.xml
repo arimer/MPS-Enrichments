@@ -2,8 +2,8 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
-      <modulePath path="$PROJECT_DIR$/languages/de.arimer.nodenavigator/de.arimer.nodenavigator.mpl" folder="node-navigator" />
-      <modulePath path="$PROJECT_DIR$/solutions/de.arimer.nodenavigator.plugin/de.arimer.nodenavigator.plugin.msd" folder="node-navigator" />
+      <modulePath path="$PROJECT_DIR$/goto-navigator/languages/de.arimer.nodenavigator/de.arimer.nodenavigator.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/goto-navigator/solutions/de.arimer.nodenavigator.plugin/de.arimer.nodenavigator.plugin.msd" folder="" />
     </projectModules>
   </component>
 </project>
