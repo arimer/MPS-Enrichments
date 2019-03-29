@@ -8,4 +8,12 @@ It is inspired by the [GoToRootNode](http://127.0.0.1:63320/node?ref=r%3A0000000
 
 ## Usage
 
+The new menu can be found under: `Navigation` `->` `Go To Named Node`
 
+<img src="https://github.com/arimer/MPS-Enrichments/blob/feature/named-elements-finder/code/goto-navigator/docu/gotToNamedNodeMenu.png" alt="Go To Named Node Menu" width="250"/>
+
+or by just jusing the shortcut `ALT` + `SHIFT` + `N`.
+
+Afterwards you can search for your named node in either your current open project or globally in the whole modules pool
+
+<img src="https://raw.githubusercontent.com/arimer/MPS-Enrichments/feature/named-elements-finder/code/goto-navigator/docu/goToNamedNodeDialog.png" width="500"/>
