@@ -332,7 +332,7 @@
                 <node concept="3clFbS" id="6ruCGOEmmkd" role="1bW5cS">
                   <node concept="3SKdUt" id="6ruCGOElQK1" role="3cqZAp">
                     <node concept="3SKdUq" id="6ruCGOElQK3" role="3SKWNk">
-                      <property role="3SKdUp" value="FIX: INFO: This is our own finder. We do not use the node-parater and therefore it is ok to pass NULL" />
+                      <property role="3SKdUp" value="INFO: This is our own finder. We do not use the node-parater and therefore it is ok to pass NULL" />
                     </node>
                   </node>
                   <node concept="3cpWs8" id="5JgqVywgTyE" role="3cqZAp">
